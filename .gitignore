@@ -1,0 +1,11 @@
+venv/
+
+**/__pycache__*
+**/tests*
+**/fixtures*
+
+chromedriver
+
+conftest.py
+pytest.ini
+.pytest_cache
